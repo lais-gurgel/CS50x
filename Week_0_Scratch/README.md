@@ -2,12 +2,12 @@
 
 I developed the [GENIUS GAME](https://scratch.mit.edu/projects/490290830/), inspired by a famous game from the 80s, you can play and comment on what level you reached!
 
-[genius game](./genius_game.png)
+![genius game](./genius_game.png)
 
 ## Grade
 
 **8/8 100%**
-[credit grade](./scratch_grade.png)
+![credit grade](./scratch_grade.png)
 
 ## Week 0 - Scratch
 
