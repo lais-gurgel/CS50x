@@ -1,3 +1,5 @@
+// Truncation
+
 #include <cs50.h>
 #include <stdio.h>
 
@@ -8,8 +10,10 @@ int main(void)
     int y = get_int("y: ");
 
     // Divide x by y
-    float z = x / y;
+    float z = (float) x / (float) y;
 
     // Perform division
     printf("%f\n", z);
 }
+
+// gcc truncation.c -o truncation -lcs50
